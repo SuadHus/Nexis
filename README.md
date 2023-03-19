@@ -19,7 +19,7 @@
 </details>
 
 ## Description
-Nexis is a chat application built using Flutter and Firebase. Nexis suppoorts not only direct/group messaging, but also voice and video calls using webrtc. It is designed to work on multiple platforms, including android, IOS, web, windows, linux, and macos. The app uses Firebase Firestore as its database and also utilizes other Firebase services. Nexis provides users with a seamless and intuitive chatting experience with a modern and aesthetically pleasing user interface.
+Nexis is a cha t application built using Flutter and Firebase. Nexis suppoorts not only direct/group messaging, but also voice and video calls using webrtc. It is designed to work on multiple platforms, including android, IOS, web, windows, linux, and macos. The app uses Firebase Firestore as its database and also utilizes other Firebase services. Nexis provides users with a seamless and intuitive chatting experience with a modern and aesthetically pleasing user interface.
 
 ## Getting started
 To be written.
